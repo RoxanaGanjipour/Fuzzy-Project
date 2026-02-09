@@ -22,7 +22,7 @@ The model was trained using an MLP-based fuzzy approach to minimize MSE (Mean Sq
 ## 📈 Results
 - In **20 and 50 epochs**, the model showed a `ConvergenceWarning`, indicating insufficient training.
 - At **1000 epochs**, the model reached high stability with minimal error.
-- **Sensitivity Analysis** revealed that [نام مهم‌ترین عامل اینجا بنویس] is the primary predictor of success.
+- **Sensitivity Analysis** revealed that [Midterm] is the primary predictor of success.
 
 ## 🛠 Tools Used
 - Python (Google Colab)
